@@ -1,4 +1,4 @@
-# Ethereum Name Service Registrar DApp
+# Vapory Name Service Registrar DApp
 
 This app allows you to register a .eth domain name, for use in ethereum decentralized applications and compatible blockchain browsers.
 
